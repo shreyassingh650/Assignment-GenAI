@@ -1,19 +1,31 @@
-#Task 3 
-price_dict = {'mobile':3000,'headphone':4000.21,'charger':190.50,'pen':10.50,'book':150,'watch':975.00}
+#Task 3 User Menu
 
-#small code block
-price_dict['bag'] = 500.0
-#update
-price_dict.update({'mobile':5000})
-#remove
-del price_dict['headphone']
+order_amount = list()
 
-print(price_dict)
 
-#average price
-avg = sum(price_dict.values()) / len(price_dict.values())
-print(avg)
-
-#optional
-max = max(price_dict.values()); min= min(price_dict.values())
-print(max , min)
+while True:
+    t = input('1 — Add order amount to a running list\n2 Show all orders and totals after applying discounts\
+\nq — Quit\n')
+    if t=='1':
+        order_amount.append(int(input('Enter Order Amount ')))
+        continue
+    elif t=='2':
+        for order in order_amount:
+            if order >= 2000:
+                discount =15
+            elif order >= 1500:
+                discount = 10
+            elif order >= 1000:
+                discount = 7
+            else:
+                discount = 0
+            final_amount = order - order*discount/100
+            print(f'{order} Price {discount}% discount {final_amount}rs Final Amount')     
+        continue
+    elif t=='q':
+        break
+    else:
+        print('Invalid Input')
+        continue
+    
+        
