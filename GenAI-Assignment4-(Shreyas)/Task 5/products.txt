@@ -1,0 +1,3 @@
+Mobile | 10000
+TV | 120
+Laptop | 30000
