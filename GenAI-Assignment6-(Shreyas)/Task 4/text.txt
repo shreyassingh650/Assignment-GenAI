@@ -1,0 +1,4 @@
+This is assignment 
+File is a type to store data
+in the system
+what do you mean by python?
