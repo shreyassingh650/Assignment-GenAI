@@ -1,20 +1,19 @@
-#task 5 Mini Program: Safe Shopping Cart
-cart = [] # list 
-total_bill = 0
-while True:
-    temp = input('Enter The Prices: \n')
-    if temp=='q':
-        break
-    
-    try:
-        temp = float(temp)
-        if temp<0:
-            raise ValueError('Price is Negative')
-        cart.append(temp)
-        total_bill += temp
-    except ValueError as ex1:
-        print(ex1)
-    except Exception as ex2:
-        print(ex2)
-print('Total Items', len(cart))
-print('Total Bill', total_bill)
+#task 5 Abstraction (Using Abstract Base Class)
+from abc import ABC,abstractmethod
+
+class Payment(ABC):
+    @abstractmethod
+    def process_payment(amount):
+        pass
+class CreditCardPayment(Payment):
+    def process_payment(self,amount):
+        print('This is Credit Card Amount',amount)
+class UPIPayment(Payment):
+    def process_payment(self,amount):
+        print('This is UPI Amount',amount)
+
+#Test all classes
+c1 = CreditCardPayment()
+upi = UPIPayment()
+c1.process_payment(30000)
+upi.process_payment(199)
