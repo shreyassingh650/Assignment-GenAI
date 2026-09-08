@@ -1,9 +1,8 @@
-# My Streamlit Project
+# Numpy Project
 
 ## How to Run
 
-1. Install Streamlit:
-   pip install streamlit
+1. Install numpy:
+   pip install numpy
 
-2. Run the app:
-   streamlit run app.py
+2. Run the code.
