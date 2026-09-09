@@ -1,0 +1,892 @@
+Name,Fare
+"Braund, Mr. Owen Harris",7.25
+"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",71.2833
+"Heikkinen, Miss. Laina",7.925
+"Futrelle, Mrs. Jacques Heath (Lily May Peel)",53.1
+"Allen, Mr. William Henry",8.05
+"Moran, Mr. James",8.4583
+"McCarthy, Mr. Timothy J",51.8625
+"Palsson, Master. Gosta Leonard",21.075
+"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",11.1333
+"Nasser, Mrs. Nicholas (Adele Achem)",30.0708
+"Sandstrom, Miss. Marguerite Rut",16.7
+"Bonnell, Miss. Elizabeth",26.55
+"Saundercock, Mr. William Henry",8.05
+"Andersson, Mr. Anders Johan",31.275
+"Vestrom, Miss. Hulda Amanda Adolfina",7.8542
+"Hewlett, Mrs. (Mary D Kingcome) ",16
+"Rice, Master. Eugene",29.125
+"Williams, Mr. Charles Eugene",13
+"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",18
+"Masselmani, Mrs. Fatima",7.225
+"Fynney, Mr. Joseph J",26
+"Beesley, Mr. Lawrence",13
+"McGowan, Miss. Anna ""Annie""",8.0292
+"Sloper, Mr. William Thompson",35.5
+"Palsson, Miss. Torborg Danira",21.075
+"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",31.3875
+"Emir, Mr. Farred Chehab",7.225
+"Fortune, Mr. Charles Alexander",263
+"O'Dwyer, Miss. Ellen ""Nellie""",7.8792
+"Todoroff, Mr. Lalio",7.8958
+"Uruchurtu, Don. Manuel E",27.7208
+"Spencer, Mrs. William Augustus (Marie Eugenie)",146.5208
+"Glynn, Miss. Mary Agatha",7.75
+"Wheadon, Mr. Edward H",10.5
+"Meyer, Mr. Edgar Joseph",82.1708
+"Holverson, Mr. Alexander Oskar",52
+"Mamee, Mr. Hanna",7.2292
+"Cann, Mr. Ernest Charles",8.05
+"Vander Planke, Miss. Augusta Maria",18
+"Nicola-Yarred, Miss. Jamila",11.2417
+"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",9.475
+"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",21
+"Kraeff, Mr. Theodor",7.8958
+"Laroche, Miss. Simonne Marie Anne Andree",41.5792
+"Devaney, Miss. Margaret Delia",7.8792
+"Rogers, Mr. William John",8.05
+"Lennon, Mr. Denis",15.5
+"O'Driscoll, Miss. Bridget",7.75
+"Samaan, Mr. Youssef",21.6792
+"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",17.8
+"Panula, Master. Juha Niilo",39.6875
+"Nosworthy, Mr. Richard Cater",7.8
+"Harper, Mrs. Henry Sleeper (Myna Haxtun)",76.7292
+"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",26
+"Ostby, Mr. Engelhart Cornelius",61.9792
+"Woolner, Mr. Hugh",35.5
+"Rugg, Miss. Emily",10.5
+"Novel, Mr. Mansouer",7.2292
+"West, Miss. Constance Mirium",27.75
+"Goodwin, Master. William Frederick",46.9
+"Sirayanian, Mr. Orsen",7.2292
+"Icard, Miss. Amelie",80
+"Harris, Mr. Henry Birkhardt",83.475
+"Skoog, Master. Harald",27.9
+"Stewart, Mr. Albert A",27.7208
+"Moubarek, Master. Gerios",15.2458
+"Nye, Mrs. (Elizabeth Ramell)",10.5
+"Crease, Mr. Ernest James",8.1583
+"Andersson, Miss. Erna Alexandra",7.925
+"Kink, Mr. Vincenz",8.6625
+"Jenkin, Mr. Stephen Curnow",10.5
+"Goodwin, Miss. Lillian Amy",46.9
+"Hood, Mr. Ambrose Jr",73.5
+"Chronopoulos, Mr. Apostolos",14.4542
+"Bing, Mr. Lee",56.4958
+"Moen, Mr. Sigurd Hansen",7.65
+"Staneff, Mr. Ivan",7.8958
+"Moutal, Mr. Rahamin Haim",8.05
+"Caldwell, Master. Alden Gates",29
+"Dowdell, Miss. Elizabeth",12.475
+"Waelens, Mr. Achille",9
+"Sheerlinck, Mr. Jan Baptist",9.5
+"McDermott, Miss. Brigdet Delia",7.7875
+"Carrau, Mr. Francisco M",47.1
+"Ilett, Miss. Bertha",10.5
+"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",15.85
+"Ford, Mr. William Neal",34.375
+"Slocovski, Mr. Selman Francis",8.05
+"Fortune, Miss. Mabel Helen",263
+"Celotti, Mr. Francesco",8.05
+"Christmann, Mr. Emil",8.05
+"Andreasson, Mr. Paul Edvin",7.8542
+"Chaffee, Mr. Herbert Fuller",61.175
+"Dean, Mr. Bertram Frank",20.575
+"Coxon, Mr. Daniel",7.25
+"Shorney, Mr. Charles Joseph",8.05
+"Goldschmidt, Mr. George B",34.6542
+"Greenfield, Mr. William Bertram",63.3583
+"Doling, Mrs. John T (Ada Julia Bone)",23
+"Kantor, Mr. Sinai",26
+"Petranec, Miss. Matilda",7.8958
+"Petroff, Mr. Pastcho (""Pentcho"")",7.8958
+"White, Mr. Richard Frasar",77.2875
+"Johansson, Mr. Gustaf Joel",8.6542
+"Gustafsson, Mr. Anders Vilhelm",7.925
+"Mionoff, Mr. Stoytcho",7.8958
+"Salkjelsvik, Miss. Anna Kristine",7.65
+"Moss, Mr. Albert Johan",7.775
+"Rekic, Mr. Tido",7.8958
+"Moran, Miss. Bertha",24.15
+"Porter, Mr. Walter Chamberlain",52
+"Zabour, Miss. Hileni",14.4542
+"Barton, Mr. David John",8.05
+"Jussila, Miss. Katriina",9.825
+"Attalah, Miss. Malake",14.4583
+"Pekoniemi, Mr. Edvard",7.925
+"Connors, Mr. Patrick",7.75
+"Turpin, Mr. William John Robert",21
+"Baxter, Mr. Quigg Edmond",247.5208
+"Andersson, Miss. Ellis Anna Maria",31.275
+"Hickman, Mr. Stanley George",73.5
+"Moore, Mr. Leonard Charles",8.05
+"Nasser, Mr. Nicholas",30.0708
+"Webber, Miss. Susan",13
+"White, Mr. Percival Wayland",77.2875
+"Nicola-Yarred, Master. Elias",11.2417
+"McMahon, Mr. Martin",7.75
+"Madsen, Mr. Fridtjof Arne",7.1417
+"Peter, Miss. Anna",22.3583
+"Ekstrom, Mr. Johan",6.975
+"Drazenoic, Mr. Jozef",7.8958
+"Coelho, Mr. Domingos Fernandeo",7.05
+"Robins, Mrs. Alexander A (Grace Charity Laury)",14.5
+"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",26
+"Sobey, Mr. Samuel James Hayden",13
+"Richard, Mr. Emile",15.0458
+"Newsom, Miss. Helen Monypeny",26.2833
+"Futrelle, Mr. Jacques Heath",53.1
+"Osen, Mr. Olaf Elon",9.2167
+"Giglio, Mr. Victor",79.2
+"Boulos, Mrs. Joseph (Sultana)",15.2458
+"Nysten, Miss. Anna Sofia",7.75
+"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",15.85
+"Burke, Mr. Jeremiah",6.75
+"Andrew, Mr. Edgardo Samuel",11.5
+"Nicholls, Mr. Joseph Charles",36.75
+"Andersson, Mr. August Edvard (""Wennerstrom"")",7.7958
+"Ford, Miss. Robina Maggie ""Ruby""",34.375
+"Navratil, Mr. Michel (""Louis M Hoffman"")",26
+"Byles, Rev. Thomas Roussel Davids",13
+"Bateman, Rev. Robert James",12.525
+"Pears, Mrs. Thomas (Edith Wearne)",66.6
+"Meo, Mr. Alfonzo",8.05
+"van Billiard, Mr. Austin Blyler",14.5
+"Olsen, Mr. Ole Martin",7.3125
+"Williams, Mr. Charles Duane",61.3792
+"Gilnagh, Miss. Katherine ""Katie""",7.7333
+"Corn, Mr. Harry",8.05
+"Smiljanic, Mr. Mile",8.6625
+"Sage, Master. Thomas Henry",69.55
+"Cribb, Mr. John Hatfield",16.1
+"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",15.75
+"Bengtsson, Mr. John Viktor",7.775
+"Calic, Mr. Jovo",8.6625
+"Panula, Master. Eino Viljami",39.6875
+"Goldsmith, Master. Frank John William ""Frankie""",20.525
+"Chibnall, Mrs. (Edith Martha Bowerman)",55
+"Skoog, Mrs. William (Anna Bernhardina Karlsson)",27.9
+"Baumann, Mr. John D",25.925
+"Ling, Mr. Lee",56.4958
+"Van der hoef, Mr. Wyckoff",33.5
+"Rice, Master. Arthur",29.125
+"Johnson, Miss. Eleanor Ileen",11.1333
+"Sivola, Mr. Antti Wilhelm",7.925
+"Smith, Mr. James Clinch",30.6958
+"Klasen, Mr. Klas Albin",7.8542
+"Lefebre, Master. Henry Forbes",25.4667
+"Isham, Miss. Ann Elizabeth",28.7125
+"Hale, Mr. Reginald",13
+"Leonard, Mr. Lionel",0
+"Sage, Miss. Constance Gladys",69.55
+"Pernot, Mr. Rene",15.05
+"Asplund, Master. Clarence Gustaf Hugo",31.3875
+"Becker, Master. Richard F",39
+"Kink-Heilmann, Miss. Luise Gretchen",22.025
+"Rood, Mr. Hugh Roscoe",50
+"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",15.5
+"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",26.55
+"Bourke, Mr. John",15.5
+"Turcin, Mr. Stjepan",7.8958
+"Pinsky, Mrs. (Rosa)",13
+"Carbines, Mr. William",13
+"Andersen-Jensen, Miss. Carla Christine Nielsine",7.8542
+"Navratil, Master. Michel M",26
+"Brown, Mrs. James Joseph (Margaret Tobin)",27.7208
+"Lurette, Miss. Elise",146.5208
+"Mernagh, Mr. Robert",7.75
+"Olsen, Mr. Karl Siegwart Andreas",8.4042
+"Madigan, Miss. Margaret ""Maggie""",7.75
+"Yrois, Miss. Henriette (""Mrs Harbeck"")",13
+"Vande Walle, Mr. Nestor Cyriel",9.5
+"Sage, Mr. Frederick",69.55
+"Johanson, Mr. Jakob Alfred",6.4958
+"Youseff, Mr. Gerious",7.225
+"Cohen, Mr. Gurshon ""Gus""",8.05
+"Strom, Miss. Telma Matilda",10.4625
+"Backstrom, Mr. Karl Alfred",15.85
+"Albimona, Mr. Nassef Cassem",18.7875
+"Carr, Miss. Helen ""Ellen""",7.75
+"Blank, Mr. Henry",31
+"Ali, Mr. Ahmed",7.05
+"Cameron, Miss. Clear Annie",21
+"Perkin, Mr. John Henry",7.25
+"Givard, Mr. Hans Kristensen",13
+"Kiernan, Mr. Philip",7.75
+"Newell, Miss. Madeleine",113.275
+"Honkanen, Miss. Eliina",7.925
+"Jacobsohn, Mr. Sidney Samuel",27
+"Bazzani, Miss. Albina",76.2917
+"Harris, Mr. Walter",10.5
+"Sunderland, Mr. Victor Francis",8.05
+"Bracken, Mr. James H",13
+"Green, Mr. George Henry",8.05
+"Nenkoff, Mr. Christo",7.8958
+"Hoyt, Mr. Frederick Maxfield",90
+"Berglund, Mr. Karl Ivar Sven",9.35
+"Mellors, Mr. William John",10.5
+"Lovell, Mr. John Hall (""Henry"")",7.25
+"Fahlstrom, Mr. Arne Jonas",13
+"Lefebre, Miss. Mathilde",25.4667
+"Harris, Mrs. Henry Birkhardt (Irene Wallach)",83.475
+"Larsson, Mr. Bengt Edvin",7.775
+"Sjostedt, Mr. Ernst Adolf",13.5
+"Asplund, Miss. Lillian Gertrud",31.3875
+"Leyson, Mr. Robert William Norman",10.5
+"Harknett, Miss. Alice Phoebe",7.55
+"Hold, Mr. Stephen",26
+"Collyer, Miss. Marjorie ""Lottie""",26.25
+"Pengelly, Mr. Frederick William",10.5
+"Hunt, Mr. George Henry",12.275
+"Zabour, Miss. Thamine",14.4542
+"Murphy, Miss. Katherine ""Kate""",15.5
+"Coleridge, Mr. Reginald Charles",10.5
+"Maenpaa, Mr. Matti Alexanteri",7.125
+"Attalah, Mr. Sleiman",7.225
+"Minahan, Dr. William Edward",90
+"Lindahl, Miss. Agda Thorilda Viktoria",7.775
+"Hamalainen, Mrs. William (Anna)",14.5
+"Beckwith, Mr. Richard Leonard",52.5542
+"Carter, Rev. Ernest Courtenay",26
+"Reed, Mr. James George",7.25
+"Strom, Mrs. Wilhelm (Elna Matilda Persson)",10.4625
+"Stead, Mr. William Thomas",26.55
+"Lobb, Mr. William Arthur",16.1
+"Rosblom, Mrs. Viktor (Helena Wilhelmina)",20.2125
+"Touma, Mrs. Darwis (Hanne Youssef Razi)",15.2458
+"Thorne, Mrs. Gertrude Maybelle",79.2
+"Cherry, Miss. Gladys",86.5
+"Ward, Miss. Anna",512.3292
+"Parrish, Mrs. (Lutie Davis)",26
+"Smith, Mr. Thomas",7.75
+"Asplund, Master. Edvin Rojj Felix",31.3875
+"Taussig, Mr. Emil",79.65
+"Harrison, Mr. William",0
+"Henry, Miss. Delia",7.75
+"Reeves, Mr. David",10.5
+"Panula, Mr. Ernesti Arvid",39.6875
+"Persson, Mr. Ernst Ulrik",7.775
+"Graham, Mrs. William Thompson (Edith Junkins)",153.4625
+"Bissette, Miss. Amelia",135.6333
+"Cairns, Mr. Alexander",31
+"Tornquist, Mr. William Henry",0
+"Mellinger, Mrs. (Elizabeth Anne Maidment)",19.5
+"Natsch, Mr. Charles H",29.7
+"Healy, Miss. Hanora ""Nora""",7.75
+"Andrews, Miss. Kornelia Theodosia",77.9583
+"Lindblom, Miss. Augusta Charlotta",7.75
+"Parkes, Mr. Francis ""Frank""",0
+"Rice, Master. Eric",29.125
+"Abbott, Mrs. Stanton (Rosa Hunt)",20.25
+"Duane, Mr. Frank",7.75
+"Olsson, Mr. Nils Johan Goransson",7.8542
+"de Pelsmaeker, Mr. Alfons",9.5
+"Dorking, Mr. Edward Arthur",8.05
+"Smith, Mr. Richard William",26
+"Stankovic, Mr. Ivan",8.6625
+"de Mulder, Mr. Theodore",9.5
+"Naidenoff, Mr. Penko",7.8958
+"Hosono, Mr. Masabumi",13
+"Connolly, Miss. Kate",7.75
+"Barber, Miss. Ellen ""Nellie""",78.85
+"Bishop, Mrs. Dickinson H (Helen Walton)",91.0792
+"Levy, Mr. Rene Jacques",12.875
+"Haas, Miss. Aloisia",8.85
+"Mineff, Mr. Ivan",7.8958
+"Lewy, Mr. Ervin G",27.7208
+"Hanna, Mr. Mansour",7.2292
+"Allison, Miss. Helen Loraine",151.55
+"Saalfeld, Mr. Adolphe",30.5
+"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",247.5208
+"Kelly, Miss. Anna Katherine ""Annie Kate""",7.75
+"McCoy, Mr. Bernard",23.25
+"Johnson, Mr. William Cahoone Jr",0
+"Keane, Miss. Nora A",12.35
+"Williams, Mr. Howard Hugh ""Harry""",8.05
+"Allison, Master. Hudson Trevor",151.55
+"Fleming, Miss. Margaret",110.8833
+"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",108.9
+"Abelson, Mr. Samuel",24
+"Francatelli, Miss. Laura Mabel",56.9292
+"Hays, Miss. Margaret Bechstein",83.1583
+"Ryerson, Miss. Emily Borie",262.375
+"Lahtinen, Mrs. William (Anna Sylfven)",26
+"Hendekovic, Mr. Ignjac",7.8958
+"Hart, Mr. Benjamin",26.25
+"Nilsson, Miss. Helmina Josefina",7.8542
+"Kantor, Mrs. Sinai (Miriam Sternin)",26
+"Moraweck, Dr. Ernest",14
+"Wick, Miss. Mary Natalie",164.8667
+"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",134.5
+"Dennis, Mr. Samuel",7.25
+"Danoff, Mr. Yoto",7.8958
+"Slayter, Miss. Hilda Mary",12.35
+"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",29
+"Sage, Mr. George John Jr",69.55
+"Young, Miss. Marie Grice",135.6333
+"Nysveen, Mr. Johan Hansen",6.2375
+"Ball, Mrs. (Ada E Hall)",13
+"Goldsmith, Mrs. Frank John (Emily Alice Brown)",20.525
+"Hippach, Miss. Jean Gertrude",57.9792
+"McCoy, Miss. Agnes",23.25
+"Partner, Mr. Austen",28.5
+"Graham, Mr. George Edward",153.4625
+"Vander Planke, Mr. Leo Edmondus",18
+"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",133.65
+"Denkoff, Mr. Mitto",7.8958
+"Pears, Mr. Thomas Clinton",66.6
+"Burns, Miss. Elizabeth Margaret",134.5
+"Dahl, Mr. Karl Edwart",8.05
+"Blackwell, Mr. Stephen Weart",35.5
+"Navratil, Master. Edmond Roger",26
+"Fortune, Miss. Alice Elizabeth",263
+"Collander, Mr. Erik Gustaf",13
+"Sedgwick, Mr. Charles Frederick Waddington",13
+"Fox, Mr. Stanley Hubert",13
+"Brown, Miss. Amelia ""Mildred""",13
+"Smith, Miss. Marion Elsie",13
+"Davison, Mrs. Thomas Henry (Mary E Finck)",16.1
+"Coutts, Master. William Loch ""William""",15.9
+"Dimic, Mr. Jovan",8.6625
+"Odahl, Mr. Nils Martin",9.225
+"Williams-Lambert, Mr. Fletcher Fellows",35
+"Elias, Mr. Tannous",7.2292
+"Arnold-Franchi, Mr. Josef",17.8
+"Yousif, Mr. Wazli",7.225
+"Vanden Steen, Mr. Leo Peter",9.5
+"Bowerman, Miss. Elsie Edith",55
+"Funk, Miss. Annie Clemmer",13
+"McGovern, Miss. Mary",7.8792
+"Mockler, Miss. Helen Mary ""Ellie""",7.8792
+"Skoog, Mr. Wilhelm",27.9
+"del Carlo, Mr. Sebastiano",27.7208
+"Barbara, Mrs. (Catherine David)",14.4542
+"Asim, Mr. Adola",7.05
+"O'Brien, Mr. Thomas",15.5
+"Adahl, Mr. Mauritz Nils Martin",7.25
+"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",75.25
+"Moussa, Mrs. (Mantoura Boulos)",7.2292
+"Jermyn, Miss. Annie",7.75
+"Aubart, Mme. Leontine Pauline",69.3
+"Harder, Mr. George Achilles",55.4417
+"Wiklund, Mr. Jakob Alfred",6.4958
+"Beavan, Mr. William Thomas",8.05
+"Ringhini, Mr. Sante",135.6333
+"Palsson, Miss. Stina Viola",21.075
+"Meyer, Mrs. Edgar Joseph (Leila Saks)",82.1708
+"Landergren, Miss. Aurora Adelia",7.25
+"Widener, Mr. Harry Elkins",211.5
+"Betros, Mr. Tannous",4.0125
+"Gustafsson, Mr. Karl Gideon",7.775
+"Bidois, Miss. Rosalie",227.525
+"Nakid, Miss. Maria (""Mary"")",15.7417
+"Tikkanen, Mr. Juho",7.925
+"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",52
+"Plotcharsky, Mr. Vasil",7.8958
+"Davies, Mr. Charles Henry",73.5
+"Goodwin, Master. Sidney Leonard",46.9
+"Buss, Miss. Kate",13
+"Sadlier, Mr. Matthew",7.7292
+"Lehmann, Miss. Bertha",12
+"Carter, Mr. William Ernest",120
+"Jansson, Mr. Carl Olof",7.7958
+"Gustafsson, Mr. Johan Birger",7.925
+"Newell, Miss. Marjorie",113.275
+"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",16.7
+"Johansson, Mr. Erik",7.7958
+"Olsson, Miss. Elina",7.8542
+"McKane, Mr. Peter David",26
+"Pain, Dr. Alfred",10.5
+"Trout, Mrs. William H (Jessie L)",12.65
+"Niskanen, Mr. Juha",7.925
+"Adams, Mr. John",8.05
+"Jussila, Miss. Mari Aina",9.825
+"Hakkarainen, Mr. Pekka Pietari",15.85
+"Oreskovic, Miss. Marija",8.6625
+"Gale, Mr. Shadrach",21
+"Widegren, Mr. Carl/Charles Peter",7.75
+"Richards, Master. William Rowe",18.75
+"Birkeland, Mr. Hans Martin Monsen",7.775
+"Lefebre, Miss. Ida",25.4667
+"Sdycoff, Mr. Todor",7.8958
+"Hart, Mr. Henry",6.8583
+"Minahan, Miss. Daisy E",90
+"Cunningham, Mr. Alfred Fleming",0
+"Sundman, Mr. Johan Julian",7.925
+"Meek, Mrs. Thomas (Annie Louise Rowley)",8.05
+"Drew, Mrs. James Vivian (Lulu Thorne Christian)",32.5
+"Silven, Miss. Lyyli Karoliina",13
+"Matthews, Mr. William John",13
+"Van Impe, Miss. Catharina",24.15
+"Gheorgheff, Mr. Stanio",7.8958
+"Charters, Mr. David",7.7333
+"Zimmerman, Mr. Leo",7.875
+"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",14.4
+"Rosblom, Mr. Viktor Richard",20.2125
+"Wiseman, Mr. Phillippe",7.25
+"Clarke, Mrs. Charles V (Ada Maria Winfield)",26
+"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",26
+"Flynn, Mr. James",7.75
+"Pickard, Mr. Berk (Berk Trembisky)",8.05
+"Bjornstrom-Steffansson, Mr. Mauritz Hakan",26.55
+"Thorneycroft, Mrs. Percival (Florence Kate White)",16.1
+"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",26
+"Kallio, Mr. Nikolai Erland",7.125
+"Silvey, Mr. William Baird",55.9
+"Carter, Miss. Lucile Polk",120
+"Ford, Miss. Doolina Margaret ""Daisy""",34.375
+"Richards, Mrs. Sidney (Emily Hocking)",18.75
+"Fortune, Mr. Mark",263
+"Kvillner, Mr. Johan Henrik Johannesson",10.5
+"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",26.25
+"Hampe, Mr. Leon",9.5
+"Petterson, Mr. Johan Emil",7.775
+"Reynaldo, Ms. Encarnacion",13
+"Johannesen-Bratthammer, Mr. Bernt",8.1125
+"Dodge, Master. Washington",81.8583
+"Mellinger, Miss. Madeleine Violet",19.5
+"Seward, Mr. Frederic Kimber",26.55
+"Baclini, Miss. Marie Catherine",19.2583
+"Peuchen, Major. Arthur Godfrey",30.5
+"West, Mr. Edwy Arthur",27.75
+"Hagland, Mr. Ingvald Olai Olsen",19.9667
+"Foreman, Mr. Benjamin Laventall",27.75
+"Goldenberg, Mr. Samuel L",89.1042
+"Peduzzi, Mr. Joseph",8.05
+"Jalsevac, Mr. Ivan",7.8958
+"Millet, Mr. Francis Davis",26.55
+"Kenyon, Mrs. Frederick R (Marion)",51.8625
+"Toomey, Miss. Ellen",10.5
+"O'Connor, Mr. Maurice",7.75
+"Anderson, Mr. Harry",26.55
+"Morley, Mr. William",8.05
+"Gee, Mr. Arthur H",38.5
+"Milling, Mr. Jacob Christian",13
+"Maisner, Mr. Simon",8.05
+"Goncalves, Mr. Manuel Estanslas",7.05
+"Campbell, Mr. William",0
+"Smart, Mr. John Montgomery",26.55
+"Scanlan, Mr. James",7.725
+"Baclini, Miss. Helene Barbara",19.2583
+"Keefe, Mr. Arthur",7.25
+"Cacic, Mr. Luka",8.6625
+"West, Mrs. Edwy Arthur (Ada Mary Worth)",27.75
+"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",13.7917
+"Strandberg, Miss. Ida Sofia",9.8375
+"Clifford, Mr. George Quincy",52
+"Renouf, Mr. Peter Henry",21
+"Braund, Mr. Lewis Richard",7.0458
+"Karlsson, Mr. Nils August",7.5208
+"Hirvonen, Miss. Hildur E",12.2875
+"Goodwin, Master. Harold Victor",46.9
+"Frost, Mr. Anthony Wood ""Archie""",0
+"Rouse, Mr. Richard Henry",8.05
+"Turkula, Mrs. (Hedwig)",9.5875
+"Bishop, Mr. Dickinson H",91.0792
+"Lefebre, Miss. Jeannie",25.4667
+"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",90
+"Kent, Mr. Edward Austin",29.7
+"Somerton, Mr. Francis William",8.05
+"Coutts, Master. Eden Leslie ""Neville""",15.9
+"Hagland, Mr. Konrad Mathias Reiersen",19.9667
+"Windelov, Mr. Einar",7.25
+"Molson, Mr. Harry Markland",30.5
+"Artagaveytia, Mr. Ramon",49.5042
+"Stanley, Mr. Edward Roland",8.05
+"Yousseff, Mr. Gerious",14.4583
+"Eustis, Miss. Elizabeth Mussey",78.2667
+"Shellard, Mr. Frederick William",15.1
+"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",151.55
+"Svensson, Mr. Olof",7.7958
+"Calic, Mr. Petar",8.6625
+"Canavan, Miss. Mary",7.75
+"O'Sullivan, Miss. Bridget Mary",7.6292
+"Laitinen, Miss. Kristina Sofia",9.5875
+"Maioni, Miss. Roberta",86.5
+"Penasco y Castellana, Mr. Victor de Satode",108.9
+"Quick, Mrs. Frederick Charles (Jane Richards)",26
+"Bradley, Mr. George (""George Arthur Brayton"")",26.55
+"Olsen, Mr. Henry Margido",22.525
+"Lang, Mr. Fang",56.4958
+"Daly, Mr. Eugene Patrick",7.75
+"Webber, Mr. James",8.05
+"McGough, Mr. James Robert",26.2875
+"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",59.4
+"Coleff, Mr. Satio",7.4958
+"Walker, Mr. William Anderson",34.0208
+"Lemore, Mrs. (Amelia Milley)",10.5
+"Ryan, Mr. Patrick",24.15
+"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",26
+"Pavlovic, Mr. Stefo",7.8958
+"Perreault, Miss. Anne",93.5
+"Vovk, Mr. Janko",7.8958
+"Lahoud, Mr. Sarkis",7.225
+"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",57.9792
+"Kassem, Mr. Fared",7.2292
+"Farrell, Mr. James",7.75
+"Ridsdale, Miss. Lucy",10.5
+"Farthing, Mr. John",221.7792
+"Salonen, Mr. Johan Werner",7.925
+"Hocking, Mr. Richard George",11.5
+"Quick, Miss. Phyllis May",26
+"Toufik, Mr. Nakli",7.2292
+"Elias, Mr. Joseph Jr",7.2292
+"Peter, Mrs. Catherine (Catherine Rizk)",22.3583
+"Cacic, Miss. Marija",8.6625
+"Hart, Miss. Eva Miriam",26.25
+"Butt, Major. Archibald Willingham",26.55
+"LeRoy, Miss. Bertha",106.425
+"Risien, Mr. Samuel Beard",14.5
+"Frolicher, Miss. Hedwig Margaritha",49.5
+"Crosby, Miss. Harriet R",71
+"Andersson, Miss. Ingeborg Constanzia",31.275
+"Andersson, Miss. Sigrid Elisabeth",31.275
+"Beane, Mr. Edward",26
+"Douglas, Mr. Walter Donald",106.425
+"Nicholson, Mr. Arthur Ernest",26
+"Beane, Mrs. Edward (Ethel Clarke)",26
+"Padro y Manent, Mr. Julian",13.8625
+"Goldsmith, Mr. Frank John",20.525
+"Davies, Master. John Morgan Jr",36.75
+"Thayer, Mr. John Borland Jr",110.8833
+"Sharp, Mr. Percival James R",26
+"O'Brien, Mr. Timothy",7.8292
+"Leeni, Mr. Fahim (""Philip Zenni"")",7.225
+"Ohman, Miss. Velin",7.775
+"Wright, Mr. George",26.55
+"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",39.6
+"Robbins, Mr. Victor",227.525
+"Taussig, Mrs. Emil (Tillie Mandelbaum)",79.65
+"de Messemaeker, Mrs. Guillaume Joseph (Emma)",17.4
+"Morrow, Mr. Thomas Rowan",7.75
+"Sivic, Mr. Husein",7.8958
+"Norman, Mr. Robert Douglas",13.5
+"Simmons, Mr. John",8.05
+"Meanwell, Miss. (Marion Ogden)",8.05
+"Davies, Mr. Alfred J",24.15
+"Stoytcheff, Mr. Ilia",7.8958
+"Palsson, Mrs. Nils (Alma Cornelia Berglund)",21.075
+"Doharr, Mr. Tannous",7.2292
+"Jonsson, Mr. Carl",7.8542
+"Harris, Mr. George",10.5
+"Appleton, Mrs. Edward Dale (Charlotte Lamson)",51.4792
+"Flynn, Mr. John Irwin (""Irving"")",26.3875
+"Kelly, Miss. Mary",7.75
+"Rush, Mr. Alfred George John",8.05
+"Patchett, Mr. George",14.5
+"Garside, Miss. Ethel",13
+"Silvey, Mrs. William Baird (Alice Munger)",55.9
+"Caram, Mrs. Joseph (Maria Elias)",14.4583
+"Jussila, Mr. Eiriik",7.925
+"Christy, Miss. Julie Rachel",30
+"Thayer, Mrs. John Borland (Marian Longstreth Morris)",110.8833
+"Downton, Mr. William James",26
+"Ross, Mr. John Hugo",40.125
+"Paulner, Mr. Uscher",8.7125
+"Taussig, Miss. Ruth",79.65
+"Jarvis, Mr. John Denzil",15
+"Frolicher-Stehli, Mr. Maxmillian",79.2
+"Gilinski, Mr. Eliezer",8.05
+"Murdlin, Mr. Joseph",8.05
+"Rintamaki, Mr. Matti",7.125
+"Stephenson, Mrs. Walter Bertram (Martha Eustis)",78.2667
+"Elsbury, Mr. William James",7.25
+"Bourke, Miss. Mary",7.75
+"Chapman, Mr. John Henry",26
+"Van Impe, Mr. Jean Baptiste",24.15
+"Leitch, Miss. Jessie Wills",33
+"Johnson, Mr. Alfred",0
+"Boulos, Mr. Hanna",7.225
+"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",56.9292
+"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",27
+"Slabenoff, Mr. Petco",7.8958
+"Harrington, Mr. Charles H",42.4
+"Torber, Mr. Ernst William",8.05
+"Homer, Mr. Harry (""Mr E Haven"")",26.55
+"Lindell, Mr. Edvard Bengtsson",15.55
+"Karaic, Mr. Milan",7.8958
+"Daniel, Mr. Robert Williams",30.5
+"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",41.5792
+"Shutes, Miss. Elizabeth W",153.4625
+"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",31.275
+"Jardin, Mr. Jose Neto",7.05
+"Murphy, Miss. Margaret Jane",15.5
+"Horgan, Mr. John",7.75
+"Brocklebank, Mr. William Alfred",8.05
+"Herman, Miss. Alice",65
+"Danbom, Mr. Ernst Gilbert",14.4
+"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",16.1
+"Becker, Miss. Marion Louise",39
+"Gavey, Mr. Lawrence",10.5
+"Yasbeck, Mr. Antoni",14.4542
+"Kimball, Mr. Edwin Nelson Jr",52.5542
+"Nakid, Mr. Sahid",15.7417
+"Hansen, Mr. Henry Damsgaard",7.8542
+"Bowen, Mr. David John ""Dai""",16.1
+"Sutton, Mr. Frederick",32.3208
+"Kirkland, Rev. Charles Leonard",12.35
+"Longley, Miss. Gretchen Fiske",77.9583
+"Bostandyeff, Mr. Guentcho",7.8958
+"O'Connell, Mr. Patrick D",7.7333
+"Barkworth, Mr. Algernon Henry Wilson",30
+"Lundahl, Mr. Johan Svensson",7.0542
+"Stahelin-Maeglin, Dr. Max",30.5
+"Parr, Mr. William Henry Marsh",0
+"Skoog, Miss. Mabel",27.9
+"Davis, Miss. Mary",13
+"Leinonen, Mr. Antti Gustaf",7.925
+"Collyer, Mr. Harvey",26.25
+"Panula, Mrs. Juha (Maria Emilia Ojala)",39.6875
+"Thorneycroft, Mr. Percival",16.1
+"Jensen, Mr. Hans Peder",7.8542
+"Sagesser, Mlle. Emma",69.3
+"Skoog, Miss. Margit Elizabeth",27.9
+"Foo, Mr. Choong",56.4958
+"Baclini, Miss. Eugenie",19.2583
+"Harper, Mr. Henry Sleeper",76.7292
+"Cor, Mr. Liudevit",7.8958
+"Simonius-Blumer, Col. Oberst Alfons",35.5
+"Willey, Mr. Edward",7.55
+"Stanley, Miss. Amy Zillah Elsie",7.55
+"Mitkoff, Mr. Mito",7.8958
+"Doling, Miss. Elsie",23
+"Kalvik, Mr. Johannes Halvorsen",8.4333
+"O'Leary, Miss. Hanora ""Norah""",7.8292
+"Hegarty, Miss. Hanora ""Nora""",6.75
+"Hickman, Mr. Leonard Mark",73.5
+"Radeff, Mr. Alexander",7.8958
+"Bourke, Mrs. John (Catherine)",15.5
+"Eitemiller, Mr. George Floyd",13
+"Newell, Mr. Arthur Webster",113.275
+"Frauenthal, Dr. Henry William",133.65
+"Badt, Mr. Mohamed",7.225
+"Colley, Mr. Edward Pomeroy",25.5875
+"Coleff, Mr. Peju",7.4958
+"Lindqvist, Mr. Eino William",7.925
+"Hickman, Mr. Lewis",73.5
+"Butler, Mr. Reginald Fenton",13
+"Rommetvedt, Mr. Knud Paust",7.775
+"Cook, Mr. Jacob",8.05
+"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",52
+"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",39
+"Davidson, Mr. Thornton",52
+"Mitchell, Mr. Henry Michael",10.5
+"Wilhelms, Mr. Charles",13
+"Watson, Mr. Ennis Hastings",0
+"Edvardsson, Mr. Gustaf Hjalmar",7.775
+"Sawyer, Mr. Frederick Charles",8.05
+"Turja, Miss. Anna Sofia",9.8417
+"Goodwin, Mrs. Frederick (Augusta Tyler)",46.9
+"Cardeza, Mr. Thomas Drake Martinez",512.3292
+"Peters, Miss. Katie",8.1375
+"Hassab, Mr. Hammad",76.7292
+"Olsvigen, Mr. Thor Anderson",9.225
+"Goodwin, Mr. Charles Edward",46.9
+"Brown, Mr. Thomas William Solomon",39
+"Laroche, Mr. Joseph Philippe Lemercier",41.5792
+"Panula, Mr. Jaako Arnold",39.6875
+"Dakic, Mr. Branko",10.1708
+"Fischer, Mr. Eberhard Thelander",7.7958
+"Madill, Miss. Georgette Alexandra",211.3375
+"Dick, Mr. Albert Adrian",57
+"Karun, Miss. Manca",13.4167
+"Lam, Mr. Ali",56.4958
+"Saad, Mr. Khalil",7.225
+"Weir, Col. John",26.55
+"Chapman, Mr. Charles Henry",13.5
+"Kelly, Mr. James",8.05
+"Mullens, Miss. Katherine ""Katie""",7.7333
+"Thayer, Mr. John Borland",110.8833
+"Humblen, Mr. Adolf Mathias Nicolai Olsen",7.65
+"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",227.525
+"Silverthorne, Mr. Spencer Victor",26.2875
+"Barbara, Miss. Saiide",14.4542
+"Gallagher, Mr. Martin",7.7417
+"Hansen, Mr. Henrik Juul",7.8542
+"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",26
+"Kelly, Mrs. Florence ""Fannie""",13.5
+"Calderhead, Mr. Edward Pennington",26.2875
+"Cleaver, Miss. Alice",151.55
+"Moubarek, Master. Halim Gonios (""William George"")",15.2458
+"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",49.5042
+"Klaber, Mr. Herman",26.55
+"Taylor, Mr. Elmer Zebley",52
+"Larsson, Mr. August Viktor",9.4833
+"Greenberg, Mr. Samuel",13
+"Soholt, Mr. Peter Andreas Lauritz Andersen",7.65
+"Endres, Miss. Caroline Louise",227.525
+"Troutt, Miss. Edwina Celia ""Winnie""",10.5
+"McEvoy, Mr. Michael",15.5
+"Johnson, Mr. Malkolm Joackim",7.775
+"Harper, Miss. Annie Jessie ""Nina""",33
+"Jensen, Mr. Svend Lauritz",7.0542
+"Gillespie, Mr. William Henry",13
+"Hodges, Mr. Henry Price",13
+"Chambers, Mr. Norman Campbell",53.1
+"Oreskovic, Mr. Luka",8.6625
+"Renouf, Mrs. Peter Henry (Lillian Jefferys)",21
+"Mannion, Miss. Margareth",7.7375
+"Bryhl, Mr. Kurt Arnold Gottfrid",26
+"Ilmakangas, Miss. Pieta Sofia",7.925
+"Allen, Miss. Elisabeth Walton",211.3375
+"Hassan, Mr. Houssein G N",18.7875
+"Knight, Mr. Robert J",0
+"Berriman, Mr. William John",13
+"Troupiansky, Mr. Moses Aaron",13
+"Williams, Mr. Leslie",16.1
+"Ford, Mrs. Edward (Margaret Ann Watson)",34.375
+"Lesurer, Mr. Gustave J",512.3292
+"Ivanoff, Mr. Kanio",7.8958
+"Nankoff, Mr. Minko",7.8958
+"Hawksford, Mr. Walter James",30
+"Cavendish, Mr. Tyrell William",78.85
+"Ryerson, Miss. Susan Parker ""Suzette""",262.375
+"McNamee, Mr. Neal",16.1
+"Stranden, Mr. Juho",7.925
+"Crosby, Capt. Edward Gifford",71
+"Abbott, Mr. Rossmore Edward",20.25
+"Sinkkonen, Miss. Anna",13
+"Marvin, Mr. Daniel Warner",53.1
+"Connaghton, Mr. Michael",7.75
+"Wells, Miss. Joan",23
+"Moor, Master. Meier",12.475
+"Vande Velde, Mr. Johannes Joseph",9.5
+"Jonkoff, Mr. Lalio",7.8958
+"Herman, Mrs. Samuel (Jane Laver)",65
+"Hamalainen, Master. Viljo",14.5
+"Carlsson, Mr. August Sigfrid",7.7958
+"Bailey, Mr. Percy Andrew",11.5
+"Theobald, Mr. Thomas Leonard",8.05
+"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",86.5
+"Garfirth, Mr. John",14.5
+"Nirva, Mr. Iisakki Antino Aijo",7.125
+"Barah, Mr. Hanna Assi",7.2292
+"Carter, Mrs. William Ernest (Lucile Polk)",120
+"Eklund, Mr. Hans Linus",7.775
+"Hogeboom, Mrs. John C (Anna Andrews)",77.9583
+"Brewe, Dr. Arthur Jackson",39.6
+"Mangan, Miss. Mary",7.75
+"Moran, Mr. Daniel J",24.15
+"Gronnestad, Mr. Daniel Danielsen",8.3625
+"Lievens, Mr. Rene Aime",9.5
+"Jensen, Mr. Niels Peder",7.8542
+"Mack, Mrs. (Mary)",10.5
+"Elias, Mr. Dibo",7.225
+"Hocking, Mrs. Elizabeth (Eliza Needs)",23
+"Myhrman, Mr. Pehr Fabian Oliver Malkolm",7.75
+"Tobin, Mr. Roger",7.75
+"Emanuel, Miss. Virginia Ethel",12.475
+"Kilgannon, Mr. Thomas J",7.7375
+"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",211.3375
+"Ayoub, Miss. Banoura",7.2292
+"Dick, Mrs. Albert Adrian (Vera Gillespie)",57
+"Long, Mr. Milton Clyde",30
+"Johnston, Mr. Andrew G",23.45
+"Ali, Mr. William",7.05
+"Harmer, Mr. Abraham (David Lishin)",7.25
+"Sjoblom, Miss. Anna Sofia",7.4958
+"Rice, Master. George Hugh",29.125
+"Dean, Master. Bertram Vere",20.575
+"Guggenheim, Mr. Benjamin",79.2
+"Keane, Mr. Andrew ""Andy""",7.75
+"Gaskell, Mr. Alfred",26
+"Sage, Miss. Stella Anna",69.55
+"Hoyt, Mr. William Fisher",30.6958
+"Dantcheff, Mr. Ristiu",7.8958
+"Otter, Mr. Richard",13
+"Leader, Dr. Alice (Farnham)",25.9292
+"Osman, Mrs. Mara",8.6833
+"Ibrahim Shawah, Mr. Yousseff",7.2292
+"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",24.15
+"Ponesell, Mr. Martin",13
+"Collyer, Mrs. Harvey (Charlotte Annie Tate)",26.25
+"Carter, Master. William Thornton II",120
+"Thomas, Master. Assad Alexander",8.5167
+"Hedman, Mr. Oskar Arvid",6.975
+"Johansson, Mr. Karl Johan",7.775
+"Andrews, Mr. Thomas Jr",0
+"Pettersson, Miss. Ellen Natalia",7.775
+"Meyer, Mr. August",13
+"Chambers, Mrs. Norman Campbell (Bertha Griggs)",53.1
+"Alexander, Mr. William",7.8875
+"Lester, Mr. James",24.15
+"Slemen, Mr. Richard James",10.5
+"Andersson, Miss. Ebba Iris Alfrida",31.275
+"Tomlin, Mr. Ernest Portage",8.05
+"Fry, Mr. Richard",0
+"Heininen, Miss. Wendla Maria",7.925
+"Mallet, Mr. Albert",37.0042
+"Holm, Mr. John Fredrik Alexander",6.45
+"Skoog, Master. Karl Thorsten",27.9
+"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",93.5
+"Lulic, Mr. Nikola",8.6625
+"Reuchlin, Jonkheer. John George",0
+"Moor, Mrs. (Beila)",12.475
+"Panula, Master. Urho Abraham",39.6875
+"Flynn, Mr. John",6.95
+"Lam, Mr. Len",56.4958
+"Mallet, Master. Andre",37.0042
+"McCormack, Mr. Thomas Joseph",7.75
+"Stone, Mrs. George Nelson (Martha Evelyn)",80
+"Yasbeck, Mrs. Antoni (Selini Alexander)",14.4542
+"Richards, Master. George Sibley",18.75
+"Saad, Mr. Amin",7.2292
+"Augustsson, Mr. Albert",7.8542
+"Allum, Mr. Owen George",8.3
+"Compton, Miss. Sara Rebecca",83.1583
+"Pasic, Mr. Jakob",8.6625
+"Sirota, Mr. Maurice",8.05
+"Chip, Mr. Chang",56.4958
+"Marechal, Mr. Pierre",29.7
+"Alhomaki, Mr. Ilmari Rudolf",7.925
+"Mudd, Mr. Thomas Charles",10.5
+"Serepeca, Miss. Augusta",31
+"Lemberopolous, Mr. Peter L",6.4375
+"Culumovic, Mr. Jeso",8.6625
+"Abbing, Mr. Anthony",7.55
+"Sage, Mr. Douglas Bullen",69.55
+"Markoff, Mr. Marin",7.8958
+"Harper, Rev. John",33
+"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",89.1042
+"Andersson, Master. Sigvard Harald Elias",31.275
+"Svensson, Mr. Johan",7.775
+"Boulos, Miss. Nourelain",15.2458
+"Lines, Miss. Mary Conover",39.4
+"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",26
+"Aks, Mrs. Sam (Leah Rosen)",9.35
+"Wick, Mrs. George Dennick (Mary Hitchcock)",164.8667
+"Daly, Mr. Peter Denis ",26.55
+"Baclini, Mrs. Solomon (Latifa Qurban)",19.2583
+"Razi, Mr. Raihed",7.2292
+"Hansen, Mr. Claus Peter",14.1083
+"Giles, Mr. Frederick Edward",11.5
+"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",25.9292
+"Sage, Miss. Dorothy Edith ""Dolly""",69.55
+"Gill, Mr. John William",13
+"Bystrom, Mrs. (Karolina)",13
+"Duran y More, Miss. Asuncion",13.8583
+"Roebling, Mr. Washington Augustus II",50.4958
+"van Melkebeke, Mr. Philemon",9.5
+"Johnson, Master. Harold Theodor",11.1333
+"Balkic, Mr. Cerin",7.8958
+"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",52.5542
+"Carlsson, Mr. Frans Olof",5
+"Vander Cruyssen, Mr. Victor",9
+"Abelson, Mrs. Samuel (Hannah Wizosky)",24
+"Najib, Miss. Adele Kiamie ""Jane""",7.225
+"Gustafsson, Mr. Alfred Ossian",9.8458
+"Petroff, Mr. Nedelio",7.8958
+"Laleff, Mr. Kristo",7.8958
+"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",83.1583
+"Shelley, Mrs. William (Imanita Parrish Hall)",26
+"Markun, Mr. Johann",7.8958
+"Dahlberg, Miss. Gerda Ulrika",10.5167
+"Banfield, Mr. Frederick James",10.5
+"Sutehall, Mr. Henry Jr",7.05
+"Rice, Mrs. William (Margaret Norton)",29.125
+"Montvila, Rev. Juozas",13
+"Graham, Miss. Margaret Edith",30
+"Johnston, Miss. Catherine Helen ""Carrie""",23.45
+"Behr, Mr. Karl Howell",30
+"Dooley, Mr. Patrick",7.75
