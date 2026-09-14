@@ -1,7 +1,12 @@
-#task 1 Pandas
+#task 1 Pandas Series Basics
 import pandas as pd
-file = pd.read_csv('../titan.csv').squeeze('columns')
-df = pd.read_csv('tit.csv')
-file1 = pd.read_csv('Titanic-Dataset.csv',index_col='Name').squeeze('columns')
-print(file1)
-print(file1.sort_values())
+marks = [78,85,90,66,72]
+series = pd.Series(marks)
+print(series)
+print('The Index is:', series.index)
+print('The Data Type is',series.dtype)
+
+#Accessing Element
+print('First Element', series[1])
+print('Last two Element\n',series[:-3:-1])
+

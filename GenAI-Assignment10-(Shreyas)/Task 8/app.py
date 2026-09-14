@@ -1,8 +1,9 @@
-#task 4: Create a DataFrame
+#task 8 Pandas Plotting
 import pandas as pd
 students ={'Name':['Amit','Neha','Rahul','Sneha','Pooja'],'Marks':[78,85,90,66,72],'Subject':['Math','Math','Science','Science','Math']}
 
 df = pd.DataFrame(students)
-print('Print first 3 rows\n',df[:3])
-print('Last 2 rows\n',df[:-3:-1])
-print('DataFrame Shape and Column Name',df.shape," ",df.columns)
+
+df.plot(x='Name', y='Marks', kind='bar')
+df['Marks'].plot(kind='line')
+df['Marks'].plot(kind='hist')

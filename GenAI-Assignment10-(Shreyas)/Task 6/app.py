@@ -1,15 +1,11 @@
-#Task 6: Percentiles & Sorting
-import numpy as np
-marks = np.array([78,85,90,66,72,88,95,60])
-print(np.sort(marks))
-print(np.percentile(marks,25))
-print(np.percentile(marks,50))
-print(np.percentile(marks,75))
+#Task 6: Filtering and Conditional Selection
+import pandas as pd
+students ={'Name':['Amit','Neha','Rahul','Sneha','Pooja'],'Marks':[78,85,90,66,72],'Subject':['Math','Math','Science','Science','Math']}
 
-count =0
+df = pd.DataFrame(students)
 
-for i in marks:
-    avg = np.average(marks)
-    if i>avg:
-        count += 1
-print('Student Who Scored Above The Average Marks',count)
+print(df[df['Marks']>75])
+print(df[df['Subject']=='Math'])
+#more than average marks
+print(df[df['Marks']>(sum(df['Marks'])/len(df['Marks']))])
+print(df[df['Marks']<70])

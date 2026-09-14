@@ -1,16 +1,19 @@
-#task 2 Important Math Operations
-import numpy as np
-A = np.array([10,20,30,40])
-B = np.array([1,2,3,4])
+#task 2 Math Operations on Series
+import pandas as pd
+marks = [78,85,90,66,72]
+series = pd.Series(marks)
+#adding 5 grace marks to all student
+series += 5
+print('5 Marks added',series)
 
-print(A+B)
-print(A-B)
-print(A*B)
-print(A/B)
-print(A**2,'\n')
-#optional i guess
-print(np.add(A,B))
-print(np.subtract(A,B))
-print(np.multiply(A,B))
-print(np.divide(A,B))
-print(np.power(A,2))
+#using on same series cuz question doesnot say to not modify the existing one 
+
+#Sub 2 marks from all values
+series -= 2
+print('2 marks sub',series)
+# multiply all marks by 1.05
+series *= 1.05
+print('multiply',series)
+#divide all by 2
+series /=2
+print('Divibe by 2',series)
