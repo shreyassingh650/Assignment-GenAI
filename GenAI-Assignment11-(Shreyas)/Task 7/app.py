@@ -4,7 +4,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 df = pd.read_csv('../Automotive.csv')
 df['COUNTRY'] = df['COUNTRY'].astype('category')
-
 #plotting
 data = df.groupby('COUNTRY')['SALES'].sum()
 arr = np.zeros(data.shape[0])
