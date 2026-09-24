@@ -1,0 +1,517 @@
+,id,genre_ids,name,vote_count,origin_country,original_language,first_air_date,adult,softcore,popularity
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
+0,10160,[10764],Big Brother,273,['US'],en,2000-07-05,False,False,117.8616
+1,1871,"[10766, 18, 80]",EastEnders,230,['GB'],en,1985-02-19,False,False,131.9008
+2,126725,"[16, 35, 80, 9648]",Velma,367,['US'],en,2023-01-12,False,False,20.6563
+3,224387,"[99, 18]",Queen Cleopatra,205,['GB'],en,2023-05-10,False,False,4.925
