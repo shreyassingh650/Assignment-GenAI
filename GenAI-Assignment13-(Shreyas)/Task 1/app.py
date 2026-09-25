@@ -1,4 +1,10 @@
+#Task 1 - Load Data from CSV
 import pandas as pd 
 
-hi = pd.DataFrame()
-print('Hello World')
+df = pd.read_csv('../performance.csv')
+print(df.shape)
+print(df.columns)
+print(df.head())
+df.info()
+print(df['Gender'].value_counts())
+print(df.describe())

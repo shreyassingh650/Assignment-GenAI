@@ -1,5 +1,9 @@
-#Task 6: Data Cleaning
+#Task 9 Bivariate Analysis
+
+# Data Cleaning:
 import pandas as pd 
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 df = pd.read_csv('../performance.csv')
 df = df[['Hours_Studied', 'Attendance', 'Parental_Involvement',
@@ -14,10 +18,22 @@ df['Teacher_Quality'] = df['Teacher_Quality'].fillna(df['Teacher_Quality'].mode(
 #rename col to lowercase and snake_case
 
 df.columns = df.columns.str.lower()
-print(df.columns)
 
 #fixing incorrect dtypes
 df['parental_involvement']=df['parental_involvement'].astype('category')
 df['access_to_resources']=df['access_to_resources'].astype('category')
-df[df.select_dtypes('object').columns] = df.select_dtypes('object').astype('category')
-df.info()
+
+#Bivariate Analysis
+#numerical vs numerical
+sns.scatterplot(data=df,x='sleep_hours',y='hours_studied')
+plt.figure()
+sns.heatmap(pd.crosstab(df['sleep_hours'],df['hours_studied'],normalize=True)*100)
+plt.figure()
+#categorical vs numerical
+sns.barplot(data=df,x='gender',y='hours_studied')
+plt.figure()
+sns.boxplot(data=df,x='gender',y='hours_studied')
+plt.figure()
+sns.violinplot(data=df,x='gender',y='hours_studied')
+
+plt.show()

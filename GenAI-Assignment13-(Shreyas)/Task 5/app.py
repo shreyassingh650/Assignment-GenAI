@@ -1,15 +1,11 @@
-#Task 5 Matrix Plots
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
+#Task 5 Understanding the Data
+import pandas as pd 
 
 df = pd.read_csv('../performance.csv')
-df['Parental_Education_Level'] = df['Parental_Education_Level'].astype('category')
-df['Parental_Involvement'] = df['Parental_Involvement'].astype('category')
-sns.pairplot(data=df)
-plt.figure()
-
-temp = df.pivot_table(index='Parental_Involvement',columns='Hours_Studied',values='Attendance',aggfunc='mean')
-print(temp)
-sns.heatmap(data=temp)
-plt.show()
+print(df.shape)
+print(df.dtypes)
+print(df.select_dtypes('int64'))
+print(df.select_dtypes('category'))
+print(df['Sleep_Hours'].isna().sum())
+print(df['Sleep_Hours'].value_counts())
+df.info()
